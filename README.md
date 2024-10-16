@@ -1,4 +1,5 @@
 # Session 1
+# Palak Jain [Domain Knowledge of SCA]
    - Indore Institute of Science and Technology AIML student
    - https://www.linkedin.com/in/palak-jain-06a75a218
    - https://github.com/p0plu
